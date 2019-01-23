@@ -1,4 +1,4 @@
-package: waited
+package: rsp
 import:
 #- package: github.com/davyxu/cellnet
 - package: github.com/garyburd/redigo
