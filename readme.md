@@ -15,13 +15,13 @@ PHP REDIS 扩展（使用GO开发）
 * go version 1.9+
 
 ### 依赖
-1 glide: 详情参考glide.yaml
-2 <https://github.com/zywaited/php-go>: <https://github.com/kitech/php-go>
-  2.1 增加链式操作（$this）
-  2.2 增加interface{}返回
-  2.3 增加nil返回
-  2.4 修复float报错
-3 <https://github.com/garyburd/redigo>
+* 1 glide: 详情参考glide.yaml
+* 2 <https://github.com/zywaited/php-go>: <https://github.com/kitech/php-go>
+* 2.1 增加链式操作（$this）
+* 2.2 增加interface{}返回
+* 2.3 增加nil返回
+* 2.4 修复float报错
+* 3 <https://github.com/garyburd/redigo>
 
 ### 编译和安装
 
