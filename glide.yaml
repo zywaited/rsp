@@ -1,0 +1,7 @@
+package: waited
+import:
+#- package: github.com/davyxu/cellnet
+- package: github.com/garyburd/redigo
+- package: github.com/zywaited/php-go
+- package: github.com/davyxu/golog
+- package: github.com/davyxu/goobjfmt
